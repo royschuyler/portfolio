@@ -57,7 +57,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #4e74a6;
 }
 
 hr.star-primary {
@@ -76,7 +76,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #4e74a6;
 }
 
 header .container {
@@ -175,7 +175,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #4e74a6;
 }
 
 section.success a,
@@ -184,7 +184,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #4e74a6;
 }
 
 @media(max-width:767px) {
@@ -232,7 +232,7 @@ section.success a.active {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: #4e74a6;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
@@ -268,7 +268,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #4e74a6;
     background: #fff;
 }
 
@@ -321,7 +321,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #4e74a6;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -431,7 +431,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #4e74a6;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -441,7 +441,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #4e74a6;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -486,4 +486,18 @@ footer .footer-below {
 .vine {
   width: 60px;
   height: 60px;
+}
+
+.skills {
+  max-width: 75px;
+  max-height: 75px;
+}
+
+.skills:hover {
+  width: 120px;
+  height: 120px;
+}
+
+.word {
+  padding-top: 20px;
 }
