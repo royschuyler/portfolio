@@ -467,3 +467,23 @@ footer .footer-below {
 .page-scroll-1 {
   font-size: 20px;
 }
+
+.insta {
+  width: 100px;
+  height: 100px;
+}
+
+.linkedin {
+  width: 60px;
+  height: 60px;
+}
+
+.github {
+  width: 75px;
+  height: 75px;
+}
+
+.vine {
+  width: 60px;
+  height: 60px;
+}
